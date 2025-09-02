@@ -1,4 +1,4 @@
-# 🐍➡️💻 Python to Other Language Converter
+# 💻 Python to Other Language Converter
 
 Convert **Python code** to **C, C++, Java, or JavaScript** instantly using **LLMs**! 🚀  
 Built with **Gradio** for a smooth web interface that works directly in your browser. 🌐✨
